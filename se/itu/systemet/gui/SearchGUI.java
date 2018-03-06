@@ -65,9 +65,9 @@ public class SearchGUI {
     maxPriceField = new JTextField(6);
     minAlcoField = new JTextField(3);
     maxAlcoField = new JTextField(3);
-    form.add(new JLabel("Minimum alcolhol:"));
+    form.add(new JLabel("Minimum alcohol:"));
     form.add(minAlcoField);
-    form.add(new JLabel("Maximum alcolhol:"));
+    form.add(new JLabel("Maximum alcohol:"));
     form.add(maxAlcoField);
     form.add(new JLabel("Minimum price:"));
     form.add(minPriceField);
